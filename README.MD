@@ -1,5 +1,5 @@
 ## ADVENT OF CODE 2024:
-* Day 1: Ruby - 42 minutes.
+* Day 1: Ruby - 42 minutes part 1 + 20 minutes part 2.
 * Day 2: ??? - ???
 * Day 3: ??? - ???
 * Day 4: ??? - ???
